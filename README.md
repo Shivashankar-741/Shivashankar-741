@@ -49,7 +49,7 @@
 
 [website]: https://shivashankar.vercel.app/
 [blog]: https://shivashankar.vercel.app/blog
-[twitter]: https://twitter.com/Shivashakar_741
+[twitter]: https://twitter.com/shivashankar_22
 [instagram]: https://www.instagram.com/____shiva_shankar____/
 [linkedin]: https://www.linkedin.com/in/shivashankar10/
 [vscode]: https://code.visualstudio.com/download
