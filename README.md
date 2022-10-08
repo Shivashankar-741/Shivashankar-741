@@ -5,7 +5,7 @@
 - 🚀 I’m a React and typescript enthusiast✡️
 - ✍️ writing my blogs [there][blog]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Reach out me [here][website]
 
 ### Connect with me:
