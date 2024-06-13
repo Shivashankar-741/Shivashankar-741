@@ -3,16 +3,16 @@
 ## I'm a Front end developer and more on this JS universe!!
 
 - 🚀 I’m a React and typescript enthusiast✡️
-- ✍️ writing my blogs [there][blog]
+- ✍️ writing my blogs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Reach out me [here][website]
+- ⚡ Reach out me at shiva1894300@gmail.com
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="shivashankar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
-[<img align="left" color="grey" alt="shivashankar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" color="grey" alt="shivashankar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" color="grey" alt="shivashankar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -45,7 +45,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivashankar-741&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://shivashankar.vercel.app/
+<!--[website]: https://shivashankar.vercel.app/-->
 [blog]: https://shivashankar.vercel.app/blog
 [twitter]: https://twitter.com/shivashankar_22
 [instagram]: https://www.instagram.com/____shiva_shankar____/
