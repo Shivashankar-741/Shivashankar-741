@@ -1,4 +1,4 @@
-### Hi there, I'm [Shiva shankar][website] 👋
+### Hi there, I'm Shiva shankar 👋
 
 ## I'm a Front end developer and more on this JS universe!!
 
