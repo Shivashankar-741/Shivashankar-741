@@ -3,10 +3,10 @@
 ## I'm a Front end developer and more on this JS universe!!
 
 - 🚀 I’m a React and typescript enthusiast✡️
-- ✍️ writing my blogs
+- ✍️ writing my blogs [there][blog]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Reach out me at shiva1894300@gmail.com
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Reach out me [here][website]
 
 ### Connect with me:
 
