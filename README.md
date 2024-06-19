@@ -45,7 +45,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivashankar-741&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[website]: https://shivashankar.vercel.app/-->
+[website]: https://shivashankar.vercel.app/
 [blog]: https://shivashankar.vercel.app/blog
 [twitter]: https://twitter.com/shivashankar_22
 [instagram]: https://www.instagram.com/____shiva_shankar____/
