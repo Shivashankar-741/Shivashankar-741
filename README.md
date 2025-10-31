@@ -5,7 +5,7 @@
 - 🚀 I’m a React and typescript enthusiast✡️
 - ✍️ writing my blogs [there][blog]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Reach out me [here][website]
 
 ### Connect with me:
@@ -63,4 +63,5 @@
 [git]: https://git-scm.com/docs/git
 [github]: https://github.com/
 [postman]: https://www.postman.com/
+
 
