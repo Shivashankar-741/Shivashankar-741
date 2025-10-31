@@ -1,6 +1,6 @@
 ### Hi there, I'm Shiva shankar 👋
 
-## I'm a Front end developer and more on this JS universe!!
+## Full Stack developer and more on this JS universe!!
 
 - 🚀 I’m a React and typescript enthusiast✡️
 - ✍️ writing my blogs [there][blog]
@@ -63,3 +63,4 @@
 [git]: https://git-scm.com/docs/git
 [github]: https://github.com/
 [postman]: https://www.postman.com/
+
