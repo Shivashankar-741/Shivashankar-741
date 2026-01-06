@@ -13,6 +13,7 @@
 <!-- [<img align="left" alt="shivashankar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 <!--[<img align="left" color="grey" alt="shivashankar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
 [<img align="left" color="grey" alt="shivashankar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -37,13 +38,11 @@
 <br />
 <br />
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivashankar-741&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivashankar-741&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivashankar-741&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivashankar-741&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://shivashankar.vercel.app/
 [blog]: https://shivashankar.vercel.app/blog
@@ -63,5 +62,3 @@
 [git]: https://git-scm.com/docs/git
 [github]: https://github.com/
 [postman]: https://www.postman.com/
-
-
